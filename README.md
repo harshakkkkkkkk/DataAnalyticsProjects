@@ -1,6 +1,8 @@
 # 🔹 Data Analytics Projects
 This repository contains a collection of Python-based data analysis and visualization mini-projects. These projects are designed to help understand various statistical and analytical techniques, as well as improve skills in data processing, visualization, and basic modeling.
 
+---
+
 ## 🔹 List of projects availabe in this repository  
 1. Demographic Data Analyzer
 2. Mean, Variance and Standard Deviation
